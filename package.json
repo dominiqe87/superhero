@@ -1,0 +1,31 @@
+{
+    "name": "my-program",
+    "version": "1.2.5",
+    " dependencies": {
+        "mime-types": "*",
+        "neggotiator": "*",
+        "grunt": "",
+        "express": "*",
+        "grunt-cli": "",
+        "grunt-contrib-watch": "",
+        "grunt-contrib-uglify": "",
+        "grunt-contrib-clean": "2.0.0",
+        "grunt-contrib-jshint": "3.0.0",
+        "grunt-contrib-copy": "1.0.0"
+    },
+    "description": "My first test pacgage",
+    "dependencies": {
+        "bootstrap": "^4.6.0",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "grunt": "^1.3.0",
+        "grunt-contrib-clean": "^2.0.0",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-imagemin": "^4.0.0",
+        "grunt-contrib-jshint": "^3.0.0",
+        "grunt-contrib-uglify": "^5.0.0",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-remove": "^0.1.0"
+    }
+}
