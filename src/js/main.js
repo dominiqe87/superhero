@@ -2,7 +2,9 @@
 JQuery.getJSon( 'users', function( users ) {
     console.log( 'users', users );
     
-    if  ( true ) {
-        console.log( unDef );
-    }
 });
+
+//check user
+function checkUser() {
+    console.log ('check user');
+}
