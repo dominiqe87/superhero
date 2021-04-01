@@ -5,6 +5,10 @@ JQuery.getJSon( 'users', function( users ) {
 });
 
 //check user
-function checkUser() {
-    console.log ('check user');
-}
+function checkUser( user ) {
+    if ( user.role > 2 ) {
+        return true;
+    } else {
+        return false;
+    }
+    }
